@@ -1,0 +1,63 @@
+﻿  stdafx.cpp
+  GroupChatBox.cpp
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\GroupChatBox.cpp(17,21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\GroupChatBox.cpp(18,14): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\GroupChatBox.cpp(20,227): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\GroupChatBox.cpp(20,210): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\GroupChatBox.cpp(20,194): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\GroupChatBox.cpp(20,176): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\GroupChatBox.cpp(21,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\GroupChatBox.cpp(22,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\GroupChatBox.cpp(41,2): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\GroupChatBox.cpp(42,2): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\GroupChatBox.cpp(68,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\GroupChatBox.cpp(71,29): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\GroupChatBox.cpp(75,27): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\GroupChatBox.cpp(66,2): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\GroupChatBox.cpp(70,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\GroupChatBox.cpp(74,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\GroupChatBox.cpp(78,2): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\GroupChatBox.cpp(79,2): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\GroupChatBox.cpp(101,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\GroupChatBox.cpp(100,2): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\GroupChatBox.cpp(117,2): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\GroupChatBox.cpp(118,2): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\GroupChatBox.cpp(119,2): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\GroupChatBox.cpp(131,2): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\GroupChatBox.cpp(132,2): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\GroupChatBox.cpp(133,2): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  PrivateChatBox.cpp
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\PrivateChatBox.cpp(14,232): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\PrivateChatBox.cpp(14,213): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\PrivateChatBox.cpp(14,195): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\PrivateChatBox.cpp(14,176): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\PrivateChatBox.cpp(15,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\PrivateChatBox.cpp(16,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\PrivateChatBox.cpp(17,17): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\PrivateChatBox.cpp(38,2): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\PrivateChatBox.cpp(39,2): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\PrivateChatBox.cpp(40,2): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\PrivateChatBox.cpp(41,2): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\PrivateChatBox.cpp(86,7): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'LONG'
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\PrivateChatBox.cpp(86,7): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'LONG'
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\PrivateChatBox.cpp(115,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\PrivateChatBox.cpp(118,29): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\PrivateChatBox.cpp(122,27): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\PrivateChatBox.cpp(113,2): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\PrivateChatBox.cpp(117,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\PrivateChatBox.cpp(121,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\PrivateChatBox.cpp(125,2): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\PrivateChatBox.cpp(126,2): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\PrivateChatBox.cpp(178,19): warning C4244: '=': conversion from 'DWORD' to 'WCHAR', possible loss of data
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\PrivateChatBox.cpp(184,36): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\PrivateChatBox.cpp(187,29): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\PrivateChatBox.cpp(183,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\PrivateChatBox.cpp(186,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\PrivateChatBox.cpp(213,2): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ChatClient.cpp
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\ChatClient.h(3,10): fatal error C1083: Cannot open include file: 'Afxwin.h': No such file or directory
+  Client.cpp
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\ChatClient.h(3,10): fatal error C1083: Cannot open include file: 'Afxwin.h': No such file or directory
+  ThreadFunc.cpp
+E:\Git\Project2\ClientServerChat-C-Socket\Client\Client\ChatClient.h(3,10): fatal error C1083: Cannot open include file: 'Afxwin.h': No such file or directory
+  Generating Code...
